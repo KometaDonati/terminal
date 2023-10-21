@@ -1,0 +1,44 @@
+
+git branch
+  351  git status
+  352  cd terminal
+  353  git branch
+  354  git checkout -b 1_b
+  355  git status
+  356  pwd
+  357  git status
+  358  git branch
+  359  cat > for1_b.json
+  360  git add .
+  361  git status
+  362  git add for1_b.json
+  363  rm -f .git/index.lock
+  364  git add for1_job.json
+  365  git status
+  366  git add .
+  367  git status
+  368  git add .
+  369  git commit -am'example'
+  370  git checkout main
+  371  git checkout 1_b
+  372  git checkout main
+  373  git merge 1_b
+  374  ls -l
+  375  cat for1_b.json
+  376  git checkout 1_b
+  377  vim for1_b.json
+  378  vim for1.json
+  379  vim for1_b.json
+  380  vim for1_b.json
+  381  cat for1_b.json
+  382  cat >> for1_b.json
+  383  cat for1_b.json
+  384  git commit -am'add json'
+  385  git chekout main
+  386  git checkout main
+  387  git merge 1_b
+  388  cat for1_b.json
+  389  git status
+  390  ls -l
+  391  history
+
