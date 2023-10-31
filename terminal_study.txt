@@ -1,0 +1,50 @@
+
+  git --version
+  387  git config --global user.name <Rada>
+  388  git config --global user.name Rada
+  389  git config --global user.email rada.donati@gmail.com
+  390  git config --list
+  391  cd QA
+  392  cd ~/QA
+  393  pwd
+  394  ls -l
+  395  курс GIT
+  396  cd курс GIT
+  397  cd  курс_GIT
+  398  cd 'курс GIT'
+  399  зцв
+  400  pwd
+  401  mkdir study
+  402  cd study/
+  403  ls
+  404  echo "Sometext" > file.txt
+  405  ls
+  406  cat file.txt
+  407  rm file.txt
+  408  ls
+  409  cd //
+  410  pwd
+  411  ls
+  412  pwd
+  413  ls
+  414  cd QA
+  415  cd ~/qa
+  416  cd 'курс GIT'
+  417  ls
+  418  cd study
+  419  ls
+  420  ls -la
+  421  git init
+  422  ls -l
+  423  ls -la
+  424  cd .git
+  425  cd object
+  426  ls
+  427  cd objects
+  428  ls -la
+  429  cd ..
+  430  cd ..
+  431  ls
+  432  ls -la
+  433  history
+
