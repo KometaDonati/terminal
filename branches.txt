@@ -1,0 +1,37 @@
+
+
+ 387  git status
+  388  open
+  389  git branch
+  390  git checkout 1_b
+  391  cat > 2lecture.json
+  392  git add
+  393  git add 2lecture.json
+  394  git commit -m 'for 1_b'
+  395  git checkout main
+  396  git checkout 1_b
+  397  git checkout main
+  398  git merge 1_b
+  399  cat 2lecture.json
+  400  cat >> 2lecture.json
+  401  cat 2lecture.json
+  402  git checkout 1_b
+  403  git checkout 1_b
+  404  git commit -am'editjson'
+  405  git status
+  406  git cat > try1.json
+  407  cat > try1.json
+  408  git add
+  409  git add try1.json
+  410  git commit -am'try'
+  411  git checkout main
+  412  ls -l
+  413  git merge 1_b
+  414  ls -l
+  415  cat >> try.json
+  416  git checkout 1_b
+  417  cat >> try1.json
+  418  git commit -am'tryagain'
+  419  git checkout main
+  420  git merge 1_b
+  421  cat try1.json
