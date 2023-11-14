@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 try again
+=======
+Oregon
+California
+Texac
+
+Uta
+North Dakota
+>>>>>>> 4f069edc9a39f70ee8d16618baba25e1bafb92ef
