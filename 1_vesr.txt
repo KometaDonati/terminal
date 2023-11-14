@@ -1,0 +1,56 @@
+  386  ls-la
+  387  ls -la
+  388  git status
+  389  echo 'first_file_text' > first -file.txt
+  390  ls
+  391  ls
+  392  rm first
+  393  ls
+  394  echo'first_File_txt' > first-file.txt
+  395  echo "first_File_txt" > first-file.txt
+  396  ls
+  397  cat first_file_txt
+  398  cat first-file.txt
+  399  git status
+  400  mkdir first-subfolder
+  401  cd first-subfolder
+  402  ls
+  403  echo "second_File_txt" > second-file.txt
+  404  echo "third_File_txt" > third-file.txt
+  405  ls
+  406   cat second-file.txt
+  407  cat third-file.txt
+  408  cd ..
+  409  `git status
+
+  410  git status
+  411  git status
+  412  git add.
+  413  git add .
+  414  git status
+  415  git log
+  416  git commit -m "first commit"
+  417  git status
+  418  ls
+  419  git log
+  420  cd .git
+  421  ls
+  422  cd objects
+  423  ls
+  424  git log
+  425  cd 25
+  426  ls
+  427  git log
+  428  cat 264e647b2a044b7fb389e8e97ff1687dd456cd
+  429  git log
+  430  git catfile -t  25264e647
+  431  git cat file -t  25264e647
+  432  git cat-file -t  25264e647
+  433  git cat-file -p  25264e647
+  434  git cat-file -t  18a31fd160
+  435  git cat-file -p  18a31fd160
+  436  git  cat-file -t  636e41f
+  437  git  cat-file -p  636e41f
+  438  git cat-file -t  d7bc6b6
+  439  git cat-file -p  d7bc6b6
+  440  history
