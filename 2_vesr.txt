@@ -1,0 +1,53 @@
+
+ cd ..
+  427  ls
+  428  rm first-file.txt
+  429  git status
+  430  mkdir second-subfolder
+  431  cd second-subfolder
+  432  echo "FOiurth file txt">fourth-file.txt
+  433  echo "Fifth file text"> fifth-file.txt
+  434  ls
+  435  cd ..
+  436  ls
+  437  git status
+  438  git add .
+  439  git status
+  440  git commit -m'second commit'
+  441  git status
+  442  git log
+  443  cat  4b77352488
+  444  ls
+  445  cd .git
+  446  ls
+  447  cd objects
+  448  ls
+  449  git log
+  450  cd 4b
+  451  ls
+  452  git log
+  453  git cat-file -t  25264e64
+  454  ls
+  455  cd ..
+  456  ls
+  457  cd 4b
+  458  ls
+  459  git log
+  460  git cat-file -t 4b77352
+  461  git cat-file -p  4b77352
+  462  cd  51dbd0c60
+  463  git log  51dbd0c60
+  464  git cat-file -t  51dbd0c60
+  465  git cat-file -p 51dbd0c60
+  466  git cat-file -p  51dbd0c60
+  467  git log
+  468  git cat-file -t 24d6015
+  469  git cat-file -p  24d6015
+  470  git cat-file -p  564f9932
+  471  cd ..
+  472  cd ..
+  473  cd ..
+  474  ls
+  475  git status
+  476  git log
+  477  history
