@@ -1,0 +1,31 @@
+
+ 478  git log
+  479  git cat-file -t 4b773524884
+  480  git cat-file -p 4b773524884
+  481  git cat-file -p 51dbd0c60
+  482  git cat-file -p d7bc6b65
+  483  git cat-file -p 7c9a593220b
+  484  cd ..
+  485  pwd
+  486  ls -
+  487  ls -l
+  488  cd study
+  489  ls
+  490  cd .log
+  491  cd .git
+  492  ls -la
+  493  cd ..
+  494  ls
+  495  git status
+  496  git log
+  497  git checkout 25264e647
+  498  ды
+  499  ls
+  500  ls first-subfolder
+  501  git status
+  502  git log
+  503  git checkout master
+  504  git log
+  505  ls
+  506  git status
+  507  history
