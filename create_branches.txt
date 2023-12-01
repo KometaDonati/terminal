@@ -1,0 +1,69 @@
+  508  git status
+  509  ls -la
+  510  cd /git
+  511  cd .git
+  512  ls
+  513  cd objects
+  514  ls
+  515  git log
+  516  cd ..
+  517  git log
+  518  cd ..
+  519  git status
+  520  git log
+  521  cd .git
+  522  ls
+  523  cd objects
+  524  ls
+  525  git log
+  526  cd 4b
+  527  ls
+  528  cat 773524884aa45390c2f7ea2f3c96ed95fe2462
+  529  git  cat-file -t 4b77352488
+  530  git  cat-file -p 4b77352488
+  531  git  cat-file -t 51dbd0c60c6b11
+  532  git  cat-file -p 51dbd0c60c6b11
+  533  git  cat-file -t d7bc6b653a29
+  534  git  cat-file -p d7bc6b653a29
+  535  git  cat-file -t 7c9a593220
+  536  git  cat-file -p 7c9a593220
+  537  cd ..
+  538  cd ..
+  539  cd ..
+  540  ls
+  541  git status
+  542  git status
+  543  git log
+  544  cd .git
+  545  ls
+  546   cd ..
+  547  ls
+  548  git status
+  549  git log
+  550  git checkout 25264e64
+  551  ls
+  552  git status
+  553  git log
+  554  git checkout 'master'
+  555  git log
+  556  ls
+  557  git status
+  558  git branch
+  559  git branch new-feature
+  560  git branch
+  561  git log
+  562  git checkout new-feature
+  563  git branch
+  564  git checkout -b another-feature
+  565  пше икфтср
+  566  git branch
+  567  git log
+  568  git branch -d new-feature
+  569  git checkout master
+  570  git branch -d another-feature
+  571  git branch
+  572  git log
+  573  git branch -m main
+  574  git branch
+  575  git history
+  576  history
